@@ -1,13 +1,13 @@
 # ML-Algorithms
-Classification:<br>
+<h4>Classification:</h4><br>
 In machine learning, classification is a supervised learning technique used to predict the category or class to which a data point belongs. It involves training a model on labeled data to identify patterns and relationships between input features and target classes, enabling it to assign new data points to the correct category<br>
-Regression:<br>
+<h4>Regression:</h4><br>
 It is also a supervised learning technique used to predict a continuous numerical value based on input features. It involves identifying relationships between independent and dependent variables to forecast outcomes. Essentially, regression aims to model the connection between variables and predict continuous values.
 
-📥 Installation Steps for Jupyter Notebook
+📥 Installation Steps for Jupyter Notebook:<br>
 To run this project locally using Jupyter Notebook, follow the steps below:
 
-✅ Prerequisites
+✅ Prerequisites:<br>
 Ensure you have Python installed on your machine. You can download it from python.org.
 
 <h2>🛠️ Installation Steps:</h2>
